@@ -30,3 +30,9 @@ files.
 See also -
 http://www.freertos.org/FreeRTOS-quick-start-guide.html
 http://www.freertos.org/FAQHelp.html
+
+Acknowledgement:
+
+This material is based upon work supported by the Defense Advanced Research Project Agency (DARPA) under Contract No. HR0011-18-C-0013.  Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of DARPA.
+
+Distribution Statement "A" (Approved for Public Release, Distribution Unlimited)
